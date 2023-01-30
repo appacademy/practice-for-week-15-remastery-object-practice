@@ -1,1 +1,0 @@
-# practice-for-week-15-remastery-object-practice
